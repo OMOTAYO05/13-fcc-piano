@@ -1,6 +1,6 @@
 # Fcc Piano
 
-> One paragraph statement about the project.
+> A fcc project to learn Web Reponsive to build a piano.
 
 ![screenshot](./app_screenshot.png)
 
