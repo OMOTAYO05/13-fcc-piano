@@ -1,4 +1,4 @@
-# Project Name
+# Fcc Piano
 
 > One paragraph statement about the project.
 
@@ -8,20 +8,34 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- - HTML5,
+  - `img`
+  - `div`
+- CSS,
+  - `font-size`
+  - `display`
+  - `float`
+  - `padding`
+  - `background-color`
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment Link
+
+[Deployment-link]()
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
